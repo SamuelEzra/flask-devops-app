@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: YOUR_DOCKERHUB_USERNAME/flask-devops-app:latest
+          tags: ezraone/flask-devops-app:latest
